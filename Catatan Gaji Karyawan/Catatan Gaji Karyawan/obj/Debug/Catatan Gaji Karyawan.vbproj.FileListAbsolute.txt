@@ -1,0 +1,12 @@
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\bin\Debug\Catatan Gaji Karyawan.exe.config
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\bin\Debug\Catatan Gaji Karyawan.exe
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\bin\Debug\Catatan Gaji Karyawan.pdb
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\bin\Debug\Catatan Gaji Karyawan.xml
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan Gaji Karyawan.vbprojAssemblyReference.cache
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan_Gaji_Karyawan.Form1.resources
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan_Gaji_Karyawan.Resources.resources
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan Gaji Karyawan.vbproj.GenerateResource.cache
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan Gaji Karyawan.vbproj.CoreCompileInputs.cache
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan Gaji Karyawan.exe
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan Gaji Karyawan.xml
+D:\Naruto Shippuuden\Catatan Gaji Karyawan\Catatan Gaji Karyawan\obj\Debug\Catatan Gaji Karyawan.pdb
